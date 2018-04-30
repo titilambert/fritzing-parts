@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="15mm"
+   height="7.5mm"
+   viewBox="0 0 15 7.4999999"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="lo20006_pcb.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="15.839192"
+     inkscape:cx="27.523256"
+     inkscape:cy="2.0577472"
+     inkscape:document-units="mm"
+     inkscape:current-layer="text7019"
+     showgrid="false"
+     inkscape:window-width="1642"
+     inkscape:window-height="1389"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-289.5)"
+     style="display:inline">
+    <g
+       inkscape:groupmode="layer"
+       id="silkscreen"
+       inkscape:label="silkscreen"
+       transform="translate(0,289.8)">
+      <rect
+         y="-0.24880475"
+         x="0.051195446"
+         height="7.3976092"
+         width="14.89761"
+         id="rect4790"
+         style="display:inline;fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.10239089;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <rect
+         transform="translate(0,-289.79999)"
+         style="display:inline;fill:#008ffb;fill-opacity:1;stroke-width:0.26458332"
+         id="rect4679"
+         width="0.40159971"
+         height="2.2914805"
+         x="0.67863494"
+         y="292.10425" />
+    </g>
+    <g
+       inkscape:groupmode="layer"
+       id="copper"
+       inkscape:label="copper1"
+       transform="translate(0,289.8)">
+      <g
+         inkscape:groupmode="layer"
+         id="copper0"
+         inkscape:label="copper0"
+         style="display:inline">
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector12pin"
+           cx="1.0950001"
+           cy="295.79001"
+           gorn="0.0.8.7"
+           r="0.63499999"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector1pin"
+           cx="1.0950001"
+           cy="290.70999"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector3pin"
+           cx="6.2849998"
+           cy="290.70999"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector4pin"
+           cx="8.8250008"
+           cy="290.70999"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector6pin"
+           cx="13.905001"
+           cy="290.70999"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector7pin"
+           cx="13.905001"
+           cy="295.79001"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector8pin"
+           cx="11.365001"
+           cy="295.79001"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector9pin"
+           cx="8.8250008"
+           cy="295.79001"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector10pin"
+           cx="6.2849998"
+           cy="295.79001"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <circle
+           transform="translate(0,-289.79999)"
+           id="connector5pin"
+           cx="11.365002"
+           cy="290.70999"
+           gorn="0.0.8.7"
+           r="0.63500005"
+           style="display:inline;fill:none;stroke:#f7bd13;stroke-width:0.45719999" />
+        <g
+           transform="translate(-0.70391977,-289.73759)"
+           style="display:inline"
+           id="g7029">
+          <g
+             aria-label="SIEMENS"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11666656px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#008ffb;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+             id="text7019" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
